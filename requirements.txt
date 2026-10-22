@@ -1,4 +1,4 @@
-eth-brownie
+eth-brownie==1.22.2
 pandas
 merkletools==1.0.3
 pysha3==1.0b1
